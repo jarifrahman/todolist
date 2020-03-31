@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\accounts",
+    "\\accounts\\__pycache__",
+    "\\producthunt",
+    "\\products",
+    "\\templates",
+    "\\templates\\accounts"
+  ],
+  "SelectedNode": "\\templates\\base.html",
+  "PreviewInSolutionExplorer": false
+}
