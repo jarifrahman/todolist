@@ -1,0 +1,32 @@
+﻿{% extends 'base.html' %}
+
+{% block content %}
+
+<h2>Product title!</h2>
+<br>
+<br>
+title:
+<br>
+{{product.title}}
+<br>
+<br>
+text:
+<br>
+{{product.body}}
+<br>
+<br>
+image:
+<br>
+<img class="card-img-top" src="{{product.image.url}}" height="500" width="200"></img>
+<br>
+<br>
+icon:
+<img class="card-img-top" src="{{product.icon.url}}" height="500" width="200"></img>
+<br>
+<br>
+<h4>Username: {{product.hunter.username}} <h4>
+<br>
+<br>
+<h4>Time added: {{product.pub_date}} <h4>
+
+{% endblock %}
