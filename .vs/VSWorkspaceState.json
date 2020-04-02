@@ -8,6 +8,6 @@
     "\\templates\\accounts",
     "\\templates\\products"
   ],
-  "SelectedNode": "\\templates\\base.html",
+  "SelectedNode": "\\templates\\products\\create.html",
   "PreviewInSolutionExplorer": false
 }
